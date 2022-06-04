@@ -4,3 +4,4 @@
 3. Rotating Navigation
 4. Hidden Search Widget
 5. Scroll Animation
+6. Blurry Loading
