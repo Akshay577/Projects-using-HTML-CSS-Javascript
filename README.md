@@ -7,3 +7,4 @@
 6. Blurry Loading
 7. Split Landing Page
 8. Form Wave Animation
+9. Sound Board
