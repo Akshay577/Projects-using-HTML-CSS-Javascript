@@ -6,3 +6,4 @@
 5. Scroll Animation
 6. Blurry Loading
 7. Split Landing Page
+8. Form Wave Animation
