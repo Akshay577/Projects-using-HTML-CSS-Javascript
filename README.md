@@ -12,3 +12,4 @@
 11. Event KeyCodes
 12. FAQ Collapse
 13. Random Choice Picker
+14. Animated Navigation
