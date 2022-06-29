@@ -20,4 +20,5 @@
 19. Theme Clock
 20. Button Ripple Effect
 21. Drag N Drop
-2. Drawing App
+22. Drawing App
+23. Kinetic CSS Loader
