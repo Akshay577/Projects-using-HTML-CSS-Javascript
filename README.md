@@ -25,3 +25,4 @@
 24. Content Placeholder
 25. Sticky Navbar
 26. Double Vertical Slider
+27. Toast Notification
