@@ -28,3 +28,5 @@
 27. Toast Notification
 28. GitHub Profiles
 29. Double Click Heart
+30. Password Generator
+31. Auto Text Effect
